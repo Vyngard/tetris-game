@@ -13,4 +13,5 @@ A Tetris game using Java and Swing.
 ## Features
 - Different levels of difficulty (By removing 10 lines, the level goes up and the speed of Minos increases)
 - Sound effects
+- Collisions
 - Pause and resume (using `Space` key)
