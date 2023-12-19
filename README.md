@@ -1,6 +1,8 @@
 # Tetris
 A Tetris game using Java and Swing.   
 
+![Tetis](./res/screenshot.jpg)
+
 ## How to play
 1. Fork this repository into your own account.
 2. Clone the repository to your local machine.
